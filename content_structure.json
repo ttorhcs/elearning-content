@@ -14,6 +14,11 @@
                     "_type": "folder",
                     "children": [
                         {
+                            "_name": "gettyimages-1301738412-612x612.jpg",
+                            "_path": "/content/help/A rendszer használatáról/gettyimages-1301738412-612x612.jpg",
+                            "_type": "file"
+                        },
+                        {
                             "_name": "image-1.png",
                             "_path": "/content/help/A rendszer használatáról/image-1.png",
                             "_type": "file"
@@ -26,6 +31,11 @@
                         {
                             "_name": "Javasolt böngészők.md",
                             "_path": "/content/help/A rendszer használatáról/Javasolt böngészők.md",
+                            "_type": "file"
+                        },
+                        {
+                            "_name": "Videó Megtekintése.md",
+                            "_path": "/content/help/A rendszer használatáról/Videó Megtekintése.md",
                             "_type": "file"
                         }
                     ]
