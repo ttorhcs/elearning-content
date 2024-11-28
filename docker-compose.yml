@@ -1,0 +1,6 @@
+services:
+  parser:
+    image: python:3.14.0a2
+    volumes:
+      - ./:/app
+    command: python /app/parser.py /app/content
