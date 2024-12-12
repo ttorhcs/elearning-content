@@ -1,0 +1,2 @@
+**Az e-learning rendszerben nem lehet állítani a hangerőt!**  
+A megfelelő hang hatás érdekében szükséges ellenőrizni a számítógép hangbeállításait (általában ezt a tálca jobb sávjában az óra mellett található hangszóró gombra kattintva érheti el, de ez operációs rendszerenként eltérő lehet)
