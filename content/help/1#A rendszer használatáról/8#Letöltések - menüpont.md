@@ -1,1 +1,0 @@
-A **“Letöltések”** menüpontban letöltheti számítógépére az **Igazolásokat**, miután teljesített egy-egy modult, valamint innen töltheti le az egyébb letöltések rész alatt az **előadások nyomtatható anyagait** pdf formátumban.

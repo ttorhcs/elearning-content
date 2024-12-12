@@ -1,1 +1,0 @@
-Kamarai tagok részére **külön nem állítunk ki igazolást**, a Sämling kft. **30 napon belül jelenti a képzés elvégzését a Kamara felé.**
