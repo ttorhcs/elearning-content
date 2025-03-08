@@ -1,1 +1,1 @@
-Az E-learning rendszerhez [Google Chrome](https://www.google.com/chrome/) vagy [Mozilla Firefox](https://www.mozilla.org/firefox/new/) böngésző használatát javasoljuk. ![alt text](image.png)![alt text](image-1.png) 
+Az e-learning redszerhez [Google Crhome](https://www.google.com/chrome/) vagy [Mozilla Firefox](https://www.mozilla.org/hu/firefox/new/) böngésző használatát javasoljuk.

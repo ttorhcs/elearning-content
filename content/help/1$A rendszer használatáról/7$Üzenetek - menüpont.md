@@ -1,0 +1,1 @@
+Az **"Üzenetek"** menüpontban, olvashatja el az adminisztrátorok által Önnek küldött üzeneteket.

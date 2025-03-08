@@ -1,1 +1,0 @@
-# Harmadik szekció

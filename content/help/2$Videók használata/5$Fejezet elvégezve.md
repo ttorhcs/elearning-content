@@ -1,0 +1,1 @@
+Amennyiben az adott fejezetet teljes egészében végignézte, a rendszer a video ablak közepén a **“Fejezet elvégezve!”** üzenet-ablakot dobja fel. Ilyenkor a videó ablak bezárásával folytathatja a többi fejezet megtekintését.
