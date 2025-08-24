@@ -2,13 +2,13 @@ A **"Kurzusok"** menüpontra kattintva egymás alatt felsorolva megtalálja az �
 
 A képzési modul címsorára (pl:ADÓ modul / SZÁMVITEL modul) kattintva tudja megtekinteni a modulhoz tartozó fejezeteket.
 
-A modulok mellett láthatja, hogy Ön ebből eddig mennyit teljesített, százalékos formában.
+A modulok mellett láthatja, hogy Ön ebből eddig mennyit teljesített, százalékos formában. Ameddig nem teljesítette 100%-osan a modult, addig pirosan jelzi a rendszer, miután megtekintette a modult 100%-osan, abban az esetben zöldel jelzi, hogy Ön elvégezte az adott modult. 
 
 * a modulok címében látható, hogy **mettől meddig tart a képzés**. Pl. ADÓ modul (2025.január 1.-2025.január 31.) 
 * az adott modulnál láthatja a **modul hivatalos nevét**, 
 * a **képzés teljes időtartamát** (pl: 380 perc), 
 * a modul milyen **szakterülethez tartotik**,
-* **mennyi kreditpont jár** a modulért,
+* **mennyi mérlegképes kreditpont jár** a modulért,
 * mi a **képzés engedélyszáma**, 
 * a leírásban látható az **elvégezhetőség időtartama**. Pl. Ez a modul 2025. JANUÁR 31-én éjjfélig végezhető el.
 
