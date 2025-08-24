@@ -1,1 +1,1 @@
-Az e-learning redszerhez [Google Crhome](https://www.google.com/chrome/) böngésző használatát javasoljuk, de [Mozilla Firefox](https://www.mozilla.org/hu/firefox/new/) és [Microsoft Edge](https://www.microsoft.com/hu-hu/edge/download) böngészőket is használatát.
+Az e-learning redszerhez [Google Crhome](https://www.google.com/chrome/) böngésző használatát javasoljuk, de [Mozilla Firefox](https://www.mozilla.org/hu/firefox/new/) és [Microsoft Edge](https://www.microsoft.com/hu-hu/edge/download) böngészőket is használhat.
