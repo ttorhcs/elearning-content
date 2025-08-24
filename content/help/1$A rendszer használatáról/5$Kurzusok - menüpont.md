@@ -14,5 +14,5 @@ Ameddig nem teljesítette 100%-osan a modult, addig pirosan jelzi, miután megte
 * mi a **képzés engedélyszáma**, 
 * a leírásban látható az **elvégezhetőség időtartama**. Pl. Ez a modul 2025. JANUÁR 31-én éjjfélig végezhető el.
 
-***FIGYELEM a 93/2002 Korm. Rendelet előírása szerint az e-learning képzés megtekintéséért akkor jár kreditpont, ha annak befejezéséig újabb továbbképzési programot nem kezd meg a résztvevő!
+***FIGYELEM a 93/2002 Korm. Rendelet előírása szerint az e-learning képzés megtekintéséért akkor jár kreditpont, ha annak befejezéséig újabb továbbképzési programot nem kezd meg a résztvevő!  
 Mivel minden modul (ADÓ, SZÁMVITEL, IFRS, stb.) külön továbbképzési programnak minősül, így egy megkezdett modul elvégzése (100%-os teljesítés) esetén tud megtekinteni egy következőt.***
