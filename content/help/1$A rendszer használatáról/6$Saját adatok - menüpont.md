@@ -7,5 +7,5 @@ A **Saját adatoknál** az alábbi adatokat találja:
 
 ***A felsorolt adatok nem változtathatóak meg a rendszerben!*** 
 Amennyiben szeretné megváltoztatni valamelyik adatát azt kérem jelezze felénk a **merlegkepes@samling.hu** email címre!
-
+  
 A **Jelszó módosításnál** az új jelszavát tudja beállítani, amennyiben megszeretné változtatni.
