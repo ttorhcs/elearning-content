@@ -1,0 +1,2 @@
+
+Az ideális megtekintés érdekében a **minimum 1024x768 felbontású** kijelző használatát javasoljuk.
