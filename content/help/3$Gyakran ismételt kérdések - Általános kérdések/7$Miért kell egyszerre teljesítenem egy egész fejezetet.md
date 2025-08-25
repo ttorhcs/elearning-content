@@ -1,0 +1,1 @@
+Az NGM előírása szerint a teljesítés akkor fogadható el, ha az elektronikus felületre bejelentkezve a továbbképzési program egy-egy részét a résztvevő kijelentkezés nélkül teljesíti. (93/2002. (V. 5.) Korm. rendelet szerint)
