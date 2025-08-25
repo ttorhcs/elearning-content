@@ -32,6 +32,7 @@ Mobil: +36 20 991 0100 vagy +36 20 502 1166
 E-mail: merlegkepes@samling.hu  
 
 Kellemes és hasznos időtöltést kívánunk Önnek!  
+
 **Sämling Üzleti Oktatási Központ Kft.**  
 Felnőttképzési nyilvántartási szám: B/2020/000858  
 1124 Budapest, Németvölgyi út 64. Honlap: www.samling.hu
