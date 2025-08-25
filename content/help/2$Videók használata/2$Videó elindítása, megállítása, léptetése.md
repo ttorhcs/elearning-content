@@ -4,7 +4,7 @@
 
 * **A videó léptetése** a képen látható csúszka segítségével történik. A kör alakú gombot húzni tudja az egér segítségével.
 
-<img src="https://github.com/user-attachments/assets/7dcda576-30a9-44b0-b30a-64033d3f73cc">
+![alt text](Video_leptetes.png)  
 
 A videó az **alsó csúszka segítségével visszább léptethető**, viszont **előre nem léptethető, amíg nem teljesítette a fejezet teljes időtartamát**.    
 A videó megállítása után, az adott anyag újraindításakor ugyanonnan folytathatja az anyagrészt, ahol azt előzetesen abbahagyta.  
