@@ -6,4 +6,4 @@ A tovább a letöltésekhez gombra kattintva automatikusan a **"Letöltések"** 
 
 A **"Kurzusok"** menüpontban ezek után láthatja, hogy az adott modul teljesítési százaléka **100%-ra** változik.
 
-***AZ adótanácsadók / adószakértők / okleveles adószakértők részére a kreditpontok lejelentéséről a Sämling Kft. gondoskodik a képzés lezárását követő 30 napon belül.***
+***Az adótanácsadók / adószakértők / okleveles adószakértők részére a kreditpontok lejelentéséről a Sämling Kft. gondoskodik a képzés lezárását követő 30 napon belül.***
