@@ -4,6 +4,4 @@
 A videó teljesítése közben a **már megtekintett percek folyamatosan nőnek**, a fenti százalékos teljesítés összege azonban **csak a sikeres jelenlét igazolás esetén változik**.
   
 ![alt text](Video_hasznalata_teljes_megtekintes.PNG)
-
-
-
+![alt text](Video_hasznalata_teljes_megtekintes_2.PNG)
