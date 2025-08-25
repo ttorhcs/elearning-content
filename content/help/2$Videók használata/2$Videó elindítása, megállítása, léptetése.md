@@ -1,6 +1,6 @@
 * A videó ablak megjelenését követően a videó alatti  **lejátszás gombbal** ![alt text](Lejatszas_gomb.png), vagy a **videóra kattintva** indíthatja el az anyag megtekintését.
 
-* A nyitókép  néhány mp-ig látható, majd megkezdődik az előadás. A videó **megállítható** ![alt text](Pause gomb.png) és **újra indítható** ![alt text](Lejatszas_gomb.png) a két gomb segítségével. ***Azonban ha megállítja, és otthagyja a videót, 180 perc után a rendszer kilépteti a felhasználót.*** Ilyen esetben ezen fejezetet elölről szükséges végignéznie, ezért azt tanácsoljuk, hogy egy fejezetet egyszerre nézzen végig a rendszer zavartalan működése érdekében.
+* A nyitókép  néhány mp-ig látható, majd megkezdődik az előadás. A videó **megállítható** ![alt text](Pause_gomb.png) és **újra indítható** ![alt text](Lejatszas_gomb.png) a két gomb segítségével. ***Azonban ha megállítja, és otthagyja a videót, 180 perc után a rendszer kilépteti a felhasználót.*** Ilyen esetben ezen fejezetet elölről szükséges végignéznie, ezért azt tanácsoljuk, hogy egy fejezetet egyszerre nézzen végig a rendszer zavartalan működése érdekében.
 
 * **A videó léptetése** a képen látható csúszka segítségével történik. A kör alakú gombot húzni tudja az egér segítségével.
 
