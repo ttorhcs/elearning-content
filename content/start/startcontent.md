@@ -2,7 +2,7 @@
 
 **Legfontosabb tudnivalók:FIGYELEM** a 93/2002 Korm. Rendelet előírása szerint az e-learning képzés **megtekintéséért, akkor jár kreditpont**, ha annak befejezéséig újabb továbbképzési programot nem kezd meg a résztvevő!
 
-* Javasolt böngésző: **Google Chrome és Mozilla Firefox**.
+* Javasolt böngésző: **Google Chrome, Mozilla Firefox és Microsoft Edge**.
 * Megtekintés közben mikor **felvillan a jelenlét igazoló gomb, kattintson rá!**
 * A videók megállíthatók, de **180 perc tétlenség után a rendszer kilépteti.**
 * Egy megkezdett modult (ADÓ, SZÁMVITEL, IFRS) **amíg nem végez el teljesen (100%), addig nem tud egy következőt megtekinteni!**
