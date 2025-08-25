@@ -1,7 +1,7 @@
 **Ön milyen böngészőt használ?** A rendszer használatához leginkább a **Google Chrome böngészőt javasoljuk**, másodsorban pedig a **Mozilla Firefox** vagy a **Microsoft Edge** böngészőt.  
 
 * **Ha nem indul el a videó** az adott böngészőben, érdemes egy másik böngészővel megpróbálni a megtekintést. *(Internet Explorer böngészőt, főként régebbi verzióit nem javasoljuk használni!)*
- <img width="1491" height="841" alt="Video_hiba" src="https://github.com/user-attachments/assets/fc31725e-cf63-45de-813c-3081c920c52b" />
+![alt text](Video_hiba.png)  
 
 * ​​Ha a fenti vagy ehhez hasonló képet lát, és nem töltődik be a videó, akkor **ellenőrizze az internet kapcsolatát**!  
 Érdemes újraindítani a böngésző programot (bezárni a jobb felső X gombbal), majd újra megpróbálni a lejátszást.
@@ -14,3 +14,4 @@
 * Főként **vállalati környezetben előfordulhat, hogy a rendszergazda letiltja bizonyos videók megtekintését**, vagy **VPN használata esetén**  vagy **több telephellyel rendelkező céges hálózatok esetén** a központosított internet szolgáltatás (proxy szerver) is korlátozhatja, vagy letilthatja az oldalak egyes részeit.
    
 **Amennyiben nem talál megoldást keresse a Sämling munkatársait és segítünk!**
+
