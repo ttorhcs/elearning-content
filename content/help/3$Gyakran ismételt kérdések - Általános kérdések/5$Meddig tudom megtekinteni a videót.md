@@ -2,5 +2,6 @@
 * **Szabadon:** Amennyiben az adott modulokat 100%-osan teljesítette, szabadon visszanézheti a videókat a képzés lejárta után is.  
 ***Az anyagok elérhetőségét a képzést követően még 2 évig biztosítjuk!***
   
-<img width="409" height="451" alt="Korabbi_evek_anyaga" src="https://github.com/user-attachments/assets/052968b0-73d9-409c-97cc-513fb8bd15df" />
+Korabbi_evek_anyaga
+
 
