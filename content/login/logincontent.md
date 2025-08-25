@@ -2,7 +2,7 @@ Amennyiben **2025.január 30. és 2025.augusztus 31. között** végezte el a
 képzést a **"Korábbi évek anyagait itt érheti el"** résznél a **2025-ös** évet  
 válassza!  
 
-***Így elfogja tudni érni az eddig megtekintett videóit!***
+***Így tudja elérni az eddig megtekintett videóit!***
 
 A rendszer használatával kapcsolatos kérdéseivel forduljon bizalommal munkatársainkhoz!  
 **Technikai segítség elérhető hétköznap 9-16-ig!**  
