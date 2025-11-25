@@ -1,5 +1,6 @@
-Amennyiben **2025.január 30. és 2025.augusztus 31. között** végezte el  
-a képzést a **"Korábbi évek anyagait itt érheti el"** résznél a **2025-ös** évet válassza!  
+Amennyiben **2025.január 30. és 2025.augusztus 31. között** végezte el a képzést a   
+**"Korábbi évek anyagait itt érheti el"**  
+résznél a **2025-ös** évet válassza!  
 
 ***Így tudja elérni az eddig megtekintett videóit!***
 
