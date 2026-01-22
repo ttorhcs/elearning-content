@@ -15,5 +15,5 @@ Telefon: [+36 20 991 0100](tel:+36209910100)
   
 **Sämling Üzleti Oktatási Központ Kft.**  
 **Felnőttképzési nyilvántartási szám: B/2020/000858**  
-1124 Budapest, Németvölgyi út 64.  
+1117 Budapest, Váli u. 4. 1/7.  
 Honlap: [www.samling.hu](http://samling.hu)
