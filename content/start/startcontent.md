@@ -35,4 +35,4 @@ Kellemes és hasznos időtöltést kívánunk Önnek!
 
 **Sämling Üzleti Oktatási Központ Kft.**  
 Felnőttképzési nyilvántartási szám: B/2020/000858  
-1124 Budapest, Németvölgyi út 64. Honlap: www.samling.hu
+1117 Budapest, Váli u. 4. 1/7. Honlap: www.samling.hu
